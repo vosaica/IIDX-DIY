@@ -1,4 +1,4 @@
-# Intro
+# 1. Intro
 This repo includes CAD files and arduino scripts to help you build your own IIDX controller with relatively low budget.
 
 #### **For the case of the controller**
@@ -11,7 +11,7 @@ For building the complete circuit, the basic tools you will need are wires, sold
 
 Besides, the bottons for the controller, the connection cables will also be needed. Since you could hardly find an excactly same type of the botton with the IIDX arcade, I will recommend you to search arcade botton on AliExpress. The encoder is also needed for the rotating part.
 
-# Let's begin!!!
+# 2. Let's begin!!!
 
 #### **Building the case**
 
