@@ -1,6 +1,4 @@
-# Intro
-![logo](https://vosaica.github.io/img/BlogImg/IIDX_DIY/Head.png)
-By VOSAICA  
+# ![logo](https://vosaica.github.io/img/BlogImg/IIDX_DIY/Head.png) Intro 
 
 This repo includes CAD files and arduino scripts to help you build your own IIDX controller with relatively low budget.
 
