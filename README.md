@@ -1,10 +1,10 @@
-# <div align=left> Intro
+# Intro
 This repo includes CAD files and arduino scripts to help you build your own IIDX controller with relatively low budget.
 
-### **For the case of the controller**
+#### **For the case of the controller**
 The case is build with acrylic. You will need to find a factory and provide them with the CAD files. After getting them all cutted, you can glue them together. Some parts will also need screws to be assembled, you need to buy them in stores.  
 
-### **For the circuit of the controller**
+#### **For the circuit of the controller**
 We are using arduino as the basic control device here. For my own controller, I am using the arduino micro, but of course you can choose other type of arduino, but to ensure they have enough ports.
 
 For building the complete circuit, the basic tools you will need are wires, soldering tin, and electric soldering iron. 
@@ -13,7 +13,7 @@ Besides, the bottons for the controller, the connection cables will also be need
 
 # Let's begin!!!
 
-### **Building the case**
+#### **Building the case**
 
 After you have get the cutted acrylic, you can assemble them according to the diagram below.
 
@@ -28,4 +28,4 @@ The extra hole on the top panel of the box is for moving the disk futher to atta
 ![metalColumns](https://vosaica.github.io/BlogImg/IIDX_DIY/metalColumn.jpg)
 
 
-### **Building the circuit**
+#### **Building the circuit**
