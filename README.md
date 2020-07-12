@@ -1,3 +1,5 @@
+![iidx](https://vosaica.github.io/BlogImg/IIDX_DIY/iidxController.jpg)
+
 # 1. Intro
 This repo includes CAD files and arduino scripts to help you build your own IIDX controller with relatively low budget.
 
