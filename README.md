@@ -3,8 +3,6 @@
 # **1. Intro**
 This repo includes CAD files and arduino scripts to help you build your own IIDX controller with relatively low budget.
 
-You can access my repository at my Github page: [IIDX-DIY](https://github.com/VOSAICA/IIDX-DIY)
-
 #### **For the case of the controller**
 The case is build with acrylic. You will need to find a factory and provide them with the CAD files. After getting them all cutted, you can glue them together. Some parts will also need screws to be assembled, you need to buy them in stores.  
 
