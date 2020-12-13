@@ -19,7 +19,7 @@ Besides, the bottons for the controller, the connection cables will also be need
 
 After you have get the cutted acrylic, you can assemble them according to the diagram below.
 
-![explosion](https://vosaica.github.io/BlogImg/IIDX_DIY/explosion.png)
+![explosion](https://vosaica.github.io/BlogImg/IIDX_DIY/explosion.webp)
 
 notice that there are special glue for acrylic, it can dissolve the acrylic so the case would be in better quality.
 
@@ -71,11 +71,11 @@ One more thing to notice is that the encoder I used is 600 p/r, if you are using
 
 The rotate disk of my controller is not fixed to the encoder, so it might drop. If you want to solve that problem, you could change the cad file of the transparent one. Replacing the disk with the part under it.
 
-![replace the disk with this](https://vosaica.github.io/BlogImg/IIDX_DIY/disk.png)
+![replace the disk with this](https://vosaica.github.io/BlogImg/IIDX_DIY/disk.webp)
 
 Then you could 3d print this part with the 3D model included in my repo and glue them together.
 
-![3D Part](https://vosaica.github.io/BlogImg/IIDX_DIY/3dPart.png)
+![3D Part](https://vosaica.github.io/BlogImg/IIDX_DIY/3dPart.webp)
 
 Since 3D printing is in better accuracy, it could fit to the encoder better.
 
