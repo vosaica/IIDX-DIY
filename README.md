@@ -1,4 +1,4 @@
-![IIDX Controller](https://vosaica.github.io/BlogImg/IIDX_DIY/iidxController.jpg)
+![IIDX Controller](https://vosaica.github.io/BlogImg/IIDX_DIY/iidxController.webp)
 
 # **1. Intro**
 This repo includes CAD files and arduino scripts to help you build your own IIDX controller with relatively low budget.
@@ -27,7 +27,7 @@ The bottom plank of the case should not be glued, be careful.
 
 The extra hole on the top panel of the box is for moving the disk futher to attain the arcade distance standard. And for you can moving the disk anytime you want, you should use metal columns and glue to assemble the support for the disk.
 
-![metalColumns](https://vosaica.github.io/BlogImg/IIDX_DIY/metalColumn.jpg)
+![metalColumns](https://vosaica.github.io/BlogImg/IIDX_DIY/metalColumn.webp)
 
 
 ## Building the circuit
@@ -37,13 +37,13 @@ The circuit part is based on arduino. 1 encoder, 9 bottons, wires, and a long mi
 For the wiring, I soldered my arduino on a board with holes and use wire to prolong the position of connecting the bottons. 
 
 <center class="half">
-    <img src="https://vosaica.github.io/BlogImg/IIDX_DIY/board1.jpg" width="200"/> &nbsp &nbsp &nbsp &nbsp <img src="https://vosaica.github.io/BlogImg/IIDX_DIY/board2.jpg" width="200"/>
+    <img src="https://vosaica.github.io/BlogImg/IIDX_DIY/board1.webp" width="200"/> &nbsp &nbsp &nbsp &nbsp <img src="https://vosaica.github.io/BlogImg/IIDX_DIY/board2.webp" width="200"/>
 </center>
 
 I used port 4, 5, 7, 8, 9, 10, 14, 15 and 16 on arduino for connecting 9 bottons. The encoder used port 2 and 3 **It's necessary for encoder to use the 2 and 3 ports for special function. Do not change them** And you will have to give all the bottons a common ground, which is GND port on arduino and give encoder a 5V and GND.
 
 My controller's wire looks like this:
-![inside](https://vosaica.github.io/BlogImg/IIDX_DIY/inside.jpg)
+![inside](https://vosaica.github.io/BlogImg/IIDX_DIY/inside.webp)
 
 ## Now for the programs
 
